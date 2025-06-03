@@ -1,0 +1,10 @@
+.content{
+  width: 100wv;
+  height:100hv ;
+  justify-content: center;
+  align-items: center;
+  border: solid 2px black;
+  display: flex;
+  background-color: lightblue;
+  
+}
